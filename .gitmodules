@@ -1,0 +1,3 @@
+[submodule "data-ingestion"]
+	path = data-ingestion
+	url = https://github.com/maybeitsai/netflix-data-ingestion.git
