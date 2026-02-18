@@ -1,3 +1,6 @@
 [submodule "data-ingestion"]
 	path = data-ingestion
 	url = https://github.com/maybeitsai/netflix-data-ingestion.git
+[submodule "modelling"]
+	path = modelling
+	url = https://github.com/harrymardika/netflix-modelling
